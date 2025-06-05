@@ -14,7 +14,7 @@ import xml.etree.ElementTree as ET
 
 jenkins_url = "http://localhost:8080"
 username = "admin"
-api_token = "11e5e64070b538a20ab25a210086a35d8d"
+api_token = "redacted"
 
 numberOfTasks = 0
 
